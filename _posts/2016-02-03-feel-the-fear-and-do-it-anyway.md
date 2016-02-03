@@ -1,6 +1,6 @@
 ---
 layout: article
-title: '"Feel the fear and do it anyway" [1]'
+title: "'Feel the fear and do it anyway' [1]"
 modified:
 categories:
 excerpt:

@@ -5,6 +5,9 @@ modified:
 categories:
 excerpt:
 tags: []
+image:
+  teaser: 1x1.gif
+  thumb: 1x1.gif
 date: 2014-05-02T22:06:05+00:00
 comments: true
 ---

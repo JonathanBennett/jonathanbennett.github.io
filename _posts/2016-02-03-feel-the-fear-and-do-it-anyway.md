@@ -5,10 +5,6 @@ modified:
 categories:
 excerpt:
 tags: []
-image:
-  feature:
-  teaser:
-  thumb:
 date: 2015-04-06T11:57:18+00:00
 comments: true
 ---

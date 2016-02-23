@@ -1,7 +1,15 @@
 ---
 layout: article
-title: "Moving to GitHub pages"
-tags:
+title: Moving to GitHub pages
+modified:
+categories:
+excerpt:
+tags: []
+image:
+  feature:
+  teaser:
+  thumb:
+date: 2015-02-04T11:52:21+00:00
 comments: true
 ---
 

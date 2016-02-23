@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Jonathan Bennett"
 image:
   feature: 8258807036_0e238c9a0e_k.jpg
 ---

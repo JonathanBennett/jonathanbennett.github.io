@@ -7,8 +7,8 @@ excerpt:
 tags: []
 image:
   feature: SteveJobsCloseUp.jpeg
-  teaser:
-  thumb:
+  teaser: 1x1.gif
+  thumb: 1x1.gif
 date: 2016-02-24T15:37:46+00:00
 ---
 

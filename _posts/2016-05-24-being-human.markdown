@@ -16,4 +16,4 @@ Let me tell you why, in a nutshell, I pretend to not be human. The bottom line i
 
 Today was a painful reminder that I, in fact, am a human.
 
-`There are no mistakes. The events we bring upon ourselves, no matter how unpleasant, are necessary in order to learn what we need to learn; whatever steps we take, they're necessary to reach the places we've chosen to go. ~ Richard Bach`
+> There are no mistakes. The events we bring upon ourselves, no matter how unpleasant, are necessary in order to learn what we need to learn; whatever steps we take, they're necessary to reach the places we've chosen to go. ~ Richard Bach

@@ -17,3 +17,17 @@ Let me tell you why, in a nutshell, I pretend to not be human. The bottom line i
 Today was a painful reminder that I, in fact, am a human.
 
 > There are no mistakes. The events we bring upon ourselves, no matter how unpleasant, are necessary in order to learn what we need to learn; whatever steps we take, they're necessary to reach the places we've chosen to go. ~ Richard Bach
+
+Truth be told, every time I ever heard someone say "Change is hard" I laughed inside. Hard. I genuinely thought "how difficult can it be for people to _change_." Surely everyone knows that as humans we evolve? Oh, how much this year has taught me. 
+
+Change is so, so incredibly hard.
+
+Everyone always talks about the fights. Everyone always talks about how to "manage" change. Everyone always explains that you have to *be* the change. But there's one thing I've learnt; more important than the change you want to happen, is the ability to be flexible yourself when the change you want to happen isn't happening quickly or, even more scarily, isn't happening at all. 
+
+All of the management training hours, all of the "executive intelligence" reading does not displace the fact that you are human, that you need things and that you have feelings. As a highly emotional person, I do my best to shut myself off entirely - to not show emotion as much as possible, good or bad, but frustration is one that permeates through everything. Even if you smiling, if you're frustrated you hear it in the words that you say. The words you choose are just a little bit sharper because *I'm* hurting and I want you to too. The tears when you're down burn just a little bit more running deeper in the skin than you could ever have imagined. _And it sucks_, it just plain *sucks*.
+
+You say things you clearly don't mean. Someone hurts you, so you want to hurt them back. They made you look a little stupid, maybe? Well you'll show them their place. The cycle continues.
+
+I'm conscious of this cycle, and I don't want to be in it anymore, so I constantly box myself off, slip into the numbers and replace bits of me with machines - get rid of the heart.
+
+> “Jonathan sighed. The price of being misunderstood, he thought. They call you devil or they call you god.” ― Richard Bach, Jonathan Livingston Seagull

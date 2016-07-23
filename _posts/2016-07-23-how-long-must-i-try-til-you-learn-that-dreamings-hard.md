@@ -6,8 +6,8 @@ categories:
 excerpt:
 tags: []
 image:
-  teaser:
-  thumb:
+  teaser: 1x1.gif
+  thumb: 1x1.gif
 date: 2016-07-23T20:08:59+03:00
 ---
 

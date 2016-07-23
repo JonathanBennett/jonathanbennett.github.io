@@ -9,7 +9,7 @@ tags: ['life','management']
 image:
   teaser: 1x1.gif
   thumb: 1x1.gif
-date: 2016-02-24T15:37:46+00:00
+date: 2016-05-23T15:37:46+00:00
 comments: true
 ---
 Humans are bizarre.

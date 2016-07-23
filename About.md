@@ -13,7 +13,7 @@ ads: false
 
 # About me
 
-Creative thinker. End to end solution designer. Poblem solver.
+Creative thinker. End to end solution designer. Problem solver.
 
 I thrive on new challenges and pushing technology to the limits. Container evangelist, javascript aficionado, open-source community lover, and tea drinker; I am powered by great ideas, inspiring people to action, and a strong team.
 

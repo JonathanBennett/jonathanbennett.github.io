@@ -1,10 +1,10 @@
 ---
-published: false
+published: true
 title: Being Human
 layout: post
 categories: [Management, Life]
 ---
-Humans are bizarre. 
+Humans are bizarre.
 
 Frankly, I could leave the post there, but I'm not sure how I feel about being so cryptic, at least not today. Usually I'm so happy posting something out to the ether and secretly wondering "I hope someone reads that and wonders what I'm talking about - how _deep_ am I?" but right now I feel like explaining myself.
 
@@ -18,11 +18,11 @@ Today was a painful reminder that I, in fact, am a human.
 
 > There are no mistakes. The events we bring upon ourselves, no matter how unpleasant, are necessary in order to learn what we need to learn; whatever steps we take, they're necessary to reach the places we've chosen to go. ~ Richard Bach
 
-Truth be told, every time I ever heard someone say "Change is hard" I laughed inside. Hard. I genuinely thought "how difficult can it be for people to _change_." Surely everyone knows that as humans we evolve? Oh, how much this year has taught me. 
+Truth be told, every time I ever heard someone say "Change is hard" I laughed inside. Hard. I genuinely thought "how difficult can it be for people to _change_." Surely everyone knows that as humans we evolve? Oh, how much this year has taught me.
 
 Change is so, so incredibly hard.
 
-Everyone always talks about the fights. Everyone always talks about how to "manage" change. Everyone always explains that you have to *be* the change. But there's one thing I've learnt; more important than the change you want to happen, is the ability to be flexible yourself when the change you want to happen isn't happening quickly or, even more scarily, isn't happening at all. 
+Everyone always talks about the fights. Everyone always talks about how to "manage" change. Everyone always explains that you have to *be* the change. But there's one thing I've learnt; more important than the change you want to happen, is the ability to be flexible yourself when the change you want to happen isn't happening quickly or, even more scarily, isn't happening at all.
 
 All of the management training hours, all of the "executive intelligence" reading does not displace the fact that you are human, that you need things and that you have feelings. As a highly emotional person, I do my best to shut myself off entirely - to not show emotion as much as possible, good or bad, but frustration is one that permeates through everything. Even if you smiling, if you're frustrated you hear it in the words that you say. The words you choose are just a little bit sharper because *I'm* hurting and I want you to too. The tears when you're down burn just a little bit more running deeper in the skin than you could ever have imagined. _And it sucks_, it just plain *sucks*.
 

@@ -6,15 +6,14 @@ categories:
 excerpt:
 tags: []
 image:
-  feature:
   teaser:
   thumb:
 date: 2016-07-23T20:08:59+03:00
 ---
 
-<iframe style='margin-left: auto; margin-right: auto;' width="300" height="169" src="https://www.youtube.com/embed/BAy4RMI82NQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
 July 22nd Regina Spektor, one of my favourite artists, released her new song, titled "Bleeding Heart". It's the first song to be released from her new Album which I am incredibly excited for. The song immediately resonated with me, hit me in all the awkward places (I'm still working on removing my heart as per last post) and got my head reeling.
+
+<iframe style='margin-left: auto; margin-right: auto;' width="300" height="169" src="https://www.youtube.com/embed/BAy4RMI82NQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 > You can't help but stare at everyone there, it's you versus everyone else. Your outfit's a crime, you feel their cold minds placing you under arrest. And you serve your time drinking all night long staring at the walls of your jail like home listening to that song cause it hurts just right 'til everything is gone tonight.'
 

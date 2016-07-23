@@ -2,7 +2,6 @@
 published: true
 title: Being Human
 layout: post
-categories: [Management, Life]
 ---
 Humans are bizarre.
 

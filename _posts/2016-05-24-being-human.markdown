@@ -1,7 +1,16 @@
 ---
 published: true
 title: Being Human
-layout: post
+layout: article
+modified:
+categories:
+excerpt:
+tags: []
+image:
+  feature: SteveJobsCloseUp.jpeg
+  teaser: 1x1.gif
+  thumb: 1x1.gif
+date: 2016-02-24T15:37:46+00:00
 ---
 Humans are bizarre.
 

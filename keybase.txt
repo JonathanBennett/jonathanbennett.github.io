@@ -1,0 +1,80 @@
+==================================================================
+https://keybase.io/jldb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jonathanben.net
+  * I am jldb (https://keybase.io/jldb) on keybase.
+  * I have a public key with fingerprint C4FA 093A 4BB8 4BF3 8976  16C1 FFEF C4B3 2E12 F1F1
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01010ac3d8fcfce1f8570785fb21f1daceb764fcfb0ffd5d83873655b61ffb7a22ca0a",
+            "fingerprint": "c4fa093a4bb84bf3897616c1ffefc4b32e12f1f1",
+            "host": "keybase.io",
+            "key_id": "ffefc4b32e12f1f1",
+            "kid": "01010ac3d8fcfce1f8570785fb21f1daceb764fcfb0ffd5d83873655b61ffb7a22ca0a",
+            "uid": "2b42d2b322692dff2c4eaa1dd45e8400",
+            "username": "jldb"
+        },
+        "revoke": {
+            "sig_ids": [
+                "c79f09e43b48883a9810e1fa85804bb4bf1753a6e1d3242e4f4615c3212dbdb40f"
+            ]
+        },
+        "service": {
+            "hostname": "jonathanben.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1483790717,
+    "expire_in": 157680000,
+    "prev": "a6e957b2ce8baa6109d2a0b16bf991288eae175c4748dc2b5f837a6013392d1c",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMODAnicrZJtUFRVGMcXDQbWEFwoFxxBLqYwg3jfXxYQ35CaYdLxrR3EWc+591y4
+sOwuuwssQwSMNTmOTE2jgpE4YRlKL0ahE9oMCNYayQBDmQ2lZpAlsBJvI6h0lslv
+feyeD3fuPf/n9/yf/zldoYt1+oB5X9cXyYbx8YDujolindlxs6KcgHaljDCVEwVo
+4YWsCnK5LQWaQpgIksILyIwiqrIqI0oVOYEURE6FNKVSCpARFHgW70FSVRVOERlR
+YHiOgzylqlAANC0DEhBJhKrZcpHT4dRsboyVWRWQEgNYCEUWqowoCTzFy7gGqTIL
+GRpRtIob4MI8u8tfgc1B4ELJmh3/wx+WBXv/of+ffRcv4GjI0gqN+9C8RCuqSsss
+AoBSFJZDIkuSfqELOW2gEGF1vlWBREUS4UQl9gLkz9Sl5WLDLsK0j5AFSSUlxDKQ
+FUWRAZJIkdgfEDmRxHHgNCiBYwCPKIWhWRqxKstTnMzQFK1ABbKkSuzHbNytRJMX
+4P6Enna224A7D9ggsiXbkBvbcjjtbrtst+LNPLfb4TL5jbnLHH51KYKWfzkWqNkU
+fES4ogQ5XZrdRpgorJTdmh9MsSIjSKRACUkE8jg0J7JofgUn8CKJH38fVIKR2LfE
+CZCWkQgB4ClSUmhAQoqHqiRRtCgigPB8MiuwoiLTkFMxGPAkxTA4WEom/JMV2eyY
+jaFukIuZODw8VbETERVXOnKe0QXodUGBi/x3V6cPCX96o525YfM51quPsqjO+++V
+fZKepktrkJZ+H3xpIutaaQ9omrog3B6uCb+88ei7ZqYt/qFRDvqspT2mZaR6Tdlc
+wwdkZm1cmP6P9WFPHnhljzlxc21qlfHj648snNk+WWekHaUnXss429zSVpeVs+jl
+bbvjuoeeW25fkt9u/K2tRj5RN1uwNzLy3IbCtKqjo8PbP0o/Nxro6fyyv2c9t2o0
+I3GKmImbTNFSV09vb0rzjZ00HPv03r5VevP1+iPvD2Q3WtetcKW9UBv0k7apNfhM
+zXHLyFeGK7/As1d7R/T9FoOXfaeo76/L69ThI8dj7/QOrIn8edNwyPxo6H7r34eD
+qkNi5k5VldRtcJq+A30ofs+rPzSfz4Yn764eCNa6Ck+LF3uOfdPE79h4uLJh0PtW
+xK5Dnujne6pvPW5b+bvCvvH6nzkT0ZsTBu/uujNxqTw76vaTvqUz028v9wYmN/8a
+kxdvrvcZlB1RyxrknUr70P3BjknrKcfgrDnjgBy6eCI1Jj9rrx7cmuuOfPg4qPLr
+exnEh71JjUtYX8bu8zdSElNOc7Fr90yFXkxcGTG+bayx01c0NP759AqazvdQwZHx
+xi2Vutb5zKY3I9jRC9HeV17aeqZw8GbXjWfTo6oiDFszZx8UH1Bnll0r4ALWHhzr
+iq4Msx6sDjeO9SfX+zzfDs8l9HZuSWj9cac3dubF5EP/AIOu4Kw=
+=m6v3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jldb
+
+==================================================================
